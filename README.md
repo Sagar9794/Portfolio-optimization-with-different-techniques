@@ -1,3 +1,3 @@
 Have tried to work on 5 years of data of different Indian stocks using different methods. Firstly for selection of the stock used kmeans clustering and then optimized the portfolio using Markowitz portfolio optimization technique by assigning them random weights 50000 times. The output parameters we get for maximum sharpe ratio are risk(volitility) is 0.3 and the corresponding return is 0.42. As here we can see the risk is high it can be due to the pandamic situation which affected almost all the sectors widely.
-After this i have tries to optimise portfolio using python inbuilt library pyfolio which directly calculates the risk and return. 
+After this I have tried to optimise portfolio using python inbuilt library pyfolio which directly calculates the risk and return. 
 Further to this we can try using different machine learning techniques like agglomerative clustering, PCA etc. Also we can introduce factor analysis techniques for stock selection.
